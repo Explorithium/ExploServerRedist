@@ -1,0 +1,57 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vs/ExploServerRedist/v16/Browse.VC.opendb
+.vs/ExploServerRedist/v16/Browse.VC.db-wal
+.vs/ExploServerRedist/v16/Browse.VC.db-shm
+.vs/ExploServerRedist/v16/Browse.VC.db
+.vs/ExploServerRedist/v16/.suo
+enetpp/trace_handler.h
+enetpp/set_current_thread_name.h
+enetpp/server_queued_packet.h
+enetpp/server_listen_params.h
+enetpp/server_event.h
+enetpp/server.h
+enetpp/global_state.h
+enetpp/client_statistics.h
+enetpp/client_queued_packet.h
+enetpp/client_connect_params.h
+enetpp/client.h
+enet/win32.h
+enet/utility.h
+enet/unix.h
+enet/types.h
+enet/time.h
+enet/protocol.h
+enet/list.h
+enet/enet.h
+enet/callbacks.h
