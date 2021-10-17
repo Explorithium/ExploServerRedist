@@ -1,0 +1,2 @@
+# ExploServerRedist
+Explorithium Game Server
