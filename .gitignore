@@ -55,3 +55,7 @@ enet/protocol.h
 enet/list.h
 enet/enet.h
 enet/callbacks.h
+x64/
+.vs/
+Debug/
+
